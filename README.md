@@ -1,6 +1,6 @@
 # Summary 
 
-This is a collection of accessibility resources put together by [TestPros Inc.](https://www.testpros.com). Please feel free to contribute and add to the list by submitting a PR.
+This is a collection of accessibility resources put together by [TestPros Inc](https://www.testpros.com). Please feel free to contribute and add to the list by submitting a PR.
 
 # Accessibility
 - Standards and Guidelines
