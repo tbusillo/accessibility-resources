@@ -6,7 +6,7 @@ This is a collection of accessibility resources put together by [TestPros Inc](h
 - Standards and Guidelines
     - [Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/) - w3c accessibility standard still most widely in use, even though WCAG 2.1 has been finalized
     - [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/) - Updated guidelines with additional success criteria for mobile devices
-    - [w3c Web Accessibility Iniitative (WAI)](https://www.w3.org/WAI/) - Fantastic resource for content writers, designers, developers, evaluators, managers, policy makers, trainers, users, and more. Highly recommended.    
+    - [W3C Web Accessibility Iniitative (WAI)](https://www.w3.org/WAI/) - Fantastic resource for content writers, designers, developers, evaluators, managers, policy makers, trainers, users, and more. Highly recommended.    
     - [Section 508 Revised Standards](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines) - United States Access Board standards for complying with Section 508
     - [DHS Trusted Tester v5 Conformance Test Process for Web](https://section508coordinators.github.io/TrustedTester/) - Extensive test process that is quickly being considered standard within the U.S. federal government.
 - Automated / Psuedo-manual Testing Tools
